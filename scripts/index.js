@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'June 9, 2024',
-  name: 'Ahmad Syaifuddin'
+  birthdate: 'Dec 5, 2023',
+  name: 'Tiara Desmitha Oliviany'
 };
 
 function hideEverything() {
